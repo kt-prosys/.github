@@ -1,5 +1,4 @@
-# .github
-### Guidelines on how to publish code in this account (PROSYS)
+## Guidelines on how to publish code in this account (PROSYS)
 
 ### Legal and Tech Transfer Process
 Before publishing code open-source and adding repositories to the PROSYS GitHub account, making the code available to persons who are not employed at DTU (open account), please ensure that you follow the procedures described below. The procedures to be followed prior to publishing code (or sharing it with anyone outside of DTU, in general) are found [here](https://www.inside.dtu.dk/en/research/legal-and-tech-transfer/about-software).
