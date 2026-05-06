@@ -16,6 +16,6 @@ If the answer is **yes** to one or more of the questions in the Checklist, then 
 - The choice to make code available as open-source must be approved at the relevant management level of your Department.
 - When publishing code, always make sure to comply with the license terms of the licenses attached to each of the third-party components etc. used in connection with the creation of your code, including all necessary acknowledgements and disclaimers.
 - When publishing/sharing your code, always state DTU as the copyright holder of the code, e.g. with the following copyright notice: "Copyright © 2026 Technical University of Denmark". If preferred, the names of the developers of the code/software can be added in addition to the general copyright notice by adding the following: "This version of the software was developed by [Name, Position, Institute]."
-- See also our Open source guide and Software FAQ that can be downloaded [here](https://www.inside.dtu.dk/en/research/legal-and-tech-transfer/about-software/software-to-be-shared-on-a-non-commercial-basis).
+- See also the Open source guide and Software FAQ that can be downloaded [here](https://www.inside.dtu.dk/en/research/legal-and-tech-transfer/about-software/software-to-be-shared-on-a-non-commercial-basis).
 
 Once you can make the code open-source, please contact Krist V. Gernaey (kvg@kt.dtu.dk) and Fiammetta Caccavale (fiacac@kt.dtu.dk) for directions on how to commit your code.
